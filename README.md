@@ -35,10 +35,14 @@ paper, confident headlines, sticky-note callouts and one blue for action.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Folio**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Folio** under Style Settings → Borozdov Ember → Variant. The variant brings this theme's
+palette, type and corners; its own layout, and its embedded font if it has one, come with
+the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/folio/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Folio/`, then choose Borozdov Folio under
 Settings → Appearance → Themes.
@@ -58,5 +62,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Полдень» — бумажный блокнот
 в тёплом дневном свете, и тёмный «Лампа» — тот же блокнот вечером. Белые карточки на тёплой
 бумаге, уверенные заголовки, колауты-стикеры, жёлтые теги и один синий для действий.
-Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Folio →
-Установить и применить.
+В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Folio в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
